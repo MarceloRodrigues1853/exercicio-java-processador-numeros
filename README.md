@@ -17,7 +17,7 @@ O que começou como um simples loop `for` com uma condicional `if`, evoluiu atra
 
 ---
 
-## 📸 Demonstração Vizual sa Aplicação
+## 📸 Demonstração Visual da Aplicação
 
 ### 1. Validação de Tipos (Anti-Crash)
 O sistema detecta quando o usuário insere texto onde deveria haver um número, limpa o buffer do scanner e solicita a entrada novamente.
